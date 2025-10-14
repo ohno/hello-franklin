@@ -16,10 +16,8 @@ serve()
 
 https://github.com/ohno/hello-franklin/blob/a24ee503a80ef92f72cc0470d728c7f7200c2963/.github/workflows/Deploy.yml#L28
 
-4. Change settings for GitHub Pages.
-
-https://github.com/ohno/hello-franklin/settings/pages
-- Source: Deploy from a branch
-- Branch: gh-pages/(root)
+4. Change settings in https://github.com/ohno/hello-franklin/settings/pages for GitHub Pages.
+    - Source: Deploy from a branch
+    - Branch: gh-pages/(root)
 
 5. Visit https://ohno.github.io/hello-franklin/.
