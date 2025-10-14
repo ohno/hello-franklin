@@ -1,4 +1,4 @@
-## hello-franklin
+## Hello Franklin.jl
 
 1. Install [Franklin.jl](https://github.com/JuliaDocs/Franklin.jl).
 ```julia
