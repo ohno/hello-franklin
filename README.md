@@ -1,4 +1,15 @@
-## Hello Franklin.jl
+# Hello Franklin.jl
+
+## How to run
+
+```
+git clone https://github.com/ohno/hello-franklin.git
+cd hello-franklin
+julia --project=. -e 'import Pkg; Pkg.instantiate()'
+julia --project=. -e 'using Franklin; serve()'
+```
+
+## How to create
 
 1. Install [Franklin.jl](https://github.com/JuliaDocs/Franklin.jl).
 ```julia
